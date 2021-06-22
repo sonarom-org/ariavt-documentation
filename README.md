@@ -1,2 +1,5 @@
-# ariavt-documentation
-ARIAVT documentation.
+# ARIAVT documentation
+
+## Application architecture
+
+The 
