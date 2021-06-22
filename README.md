@@ -19,7 +19,7 @@ Services:
 
   * Backend
     - [FastAPI](https://fastapi.tiangolo.com/)
-    - Database: [PostgreSQL](https://www.postgresql.org/)
+    - [PostgreSQL](https://www.postgresql.org/)
   * Frontend
     - [React](https://reactjs.org/)
     - [Material-UI](https://material-ui.com/)
