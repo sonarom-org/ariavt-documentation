@@ -9,6 +9,10 @@ Services:
   * Frontend
   * Image analysis service (Deep Learning service)
 
+### Diagram
+
+![Architecture diagram](architecture.svg)
+
 
 ## Frameworks and libraries
 
@@ -20,3 +24,7 @@ Services:
   * Image analysis service
     - [FastAPI](https://fastapi.tiangolo.com/)
     - [PyTorch](https://pytorch.org/)
+
+
+
+
