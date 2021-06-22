@@ -11,7 +11,7 @@ Services:
 
 ### Diagram
 
-![Architecture diagram](architecture.svg)
+![Architecture diagram](images/architecture.svg)
 
 
 
