@@ -2,4 +2,10 @@
 
 ## Application architecture
 
-The 
+**Microservices architecture** with RESTful APIs.
+
+Services:
+  - Backend (+ database)
+  - Frontend
+  - Image analysis service (Deep Learning service)
+
